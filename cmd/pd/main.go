@@ -24,6 +24,9 @@ import (
 const (
 	// Name defines the basename of this program.
 	Name = "pd"
+)
+
+var (
 	// Version defines current version number.
 	Version = "0.7.3"
 )
